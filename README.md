@@ -9,4 +9,3 @@ Frontend Skills:
 Backednd Skills:
 
 [![Frontend_Skills](https://skillicons.dev/icons?i=mysql,nodejs,express,npm)](https://skillicons.dev)
-
