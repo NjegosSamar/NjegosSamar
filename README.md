@@ -1,4 +1,4 @@
-### Hi! My name is Njegoš Samardžija 😄
+## Hi! My name is Njegoš Samardžija 😄
 
 I am a Full Stack Developer based in Maribor, Slovenia
 
